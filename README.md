@@ -10,3 +10,8 @@ This code produced a good website, but with the work done, it now also fits a go
 
 Problems This Challenge Solved:
 Taught me how to look at code and parse what could and could not be consolidated, what each portion of the code was directed toward on the live site, and how to correctly label each point of code in the index.HTML file.
+
+```md
+    ![Screeenshot of finished product](./assets/images/screenshot.png)
+    ```
+[Finished website URL](https://thoufty.github.io/Challenge-1/)
